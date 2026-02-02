@@ -1,5 +1,5 @@
 ### 👨‍💻 About Me
-I am a final year Software Engineering student based in **Puncak Alam**, looking for an internship placement starting **March 2026**. I enjoy solving real-world problems through code, ranging from sports performance trackers to e-commerce platforms.
+I am a final year Software Engineering student based in **Puncak Alam**, looking for an internship placement starting **March 2026** untill **July 2026**. I enjoy solving real-world problems through code, ranging from sports performance trackers to e-commerce platforms.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,3 +17,7 @@ I am a final year Software Engineering student based in **Puncak Alam**, looking
 **2. FYNX (E-Commerce Concept)**
 * A responsive streetwear fashion website focusing on modern UI/UX design.
 * **Tech:** HTML, CSS, JavaScript.
+
+**3. Cinema Ticketing Booking System**
+* An advance mobile application version of cinema ticketing system developed to bring more confort andvalue to the customer
+* **Tech:** Flutter and Dart.
